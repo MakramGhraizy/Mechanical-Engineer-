@@ -1539,7 +1539,7 @@ section {
   background: #FF0000;
   color: #151515;
   transition: 0.3s;
-  border-radius: 0 4px 4px 0;
+  border-radius: 30px;
 }
 
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
