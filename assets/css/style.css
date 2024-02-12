@@ -130,7 +130,7 @@ h6 {
 #header.header-scrolled,
 #header.header-inner-pages {
   top: 0;
-  background: rgba(0, 0, 0, 0.8);
+  background: #000;
 }
 
 #header .logo {
