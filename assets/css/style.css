@@ -740,12 +740,14 @@ section {
   margin-top: 10px;
   border: 2px solid #fff;
   color: #fff;
+  border-radius: 30px;
 }
 
 .cta .cta-btn:hover {
   background: #FF0000;
   border-color: #FF0000;
   color: #151515;
+  border-radius: 30px;
 }
 
 /*--------------------------------------------------------------
