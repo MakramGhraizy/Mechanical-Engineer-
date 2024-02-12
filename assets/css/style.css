@@ -551,6 +551,9 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about {
+  background: #000000;
+}
 .about .content h3 {
   font-weight: 700;
   font-size: 28px;
@@ -658,7 +661,7 @@ section {
   border: 1px solid #ebebeb;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
-  background: #fff;
+  background: #000;
 }
 
 .services .icon-box .icon {
