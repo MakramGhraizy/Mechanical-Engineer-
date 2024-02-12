@@ -130,7 +130,7 @@ h6 {
 #header.header-scrolled,
 #header.header-inner-pages {
   top: 0;
-  background: rgba(0, 0, 0, 0.8);
+  background: #000;
 }
 
 #header .logo {
@@ -1418,7 +1418,7 @@ section {
 
 #footer .footer-top {
   background: #151515;
-  border-bottom: 1px solid #222222;
+  border-bottom: 1px solid #000;
   padding: 60px 0 30px 0;
 }
 
@@ -1516,7 +1516,7 @@ section {
 
 #footer .footer-top .footer-newsletter form {
   margin-top: 30px;
-  background: #fff;
+  background: #000;
   padding: 6px 10px;
   position: relative;
   border-radius: 4px;
